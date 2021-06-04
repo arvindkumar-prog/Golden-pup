@@ -1,0 +1,128 @@
+#title{
+  background-color: #1E6F5C;
+}
+
+
+
+h1{
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 3rem;
+  line-height:1.5;
+  color: #fff;
+}
+button{
+  font-family: 'Luckiest Guy', cursive;
+}
+
+h3{
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 2rem;
+}
+p{
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 2rem;
+  color:  #1E6F5C;
+}
+h2{
+  font-family: 'Luckiest Guy', cursive;
+  color: #fff;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+
+
+.nav-link{
+  font-family: 'Luckiest Guy', cursive;
+}
+
+.nav-item{
+  padding: 0 18px;
+
+}
+
+.navbar{
+  padding-bottom: 2.5rem;
+}
+
+.navbar-brand{
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: 'Bangers', cursive;
+  margin-left: 10px;
+  color: #1B2021;
+}
+
+.container-fluid{
+  padding: 3% 10%;
+}
+
+
+
+.dowloadbutton{
+  margin: 5% 3% 5% 0;
+}
+
+#features{
+  padding:7% 15%;
+}
+.feature-box{
+  text-align: center;
+  padding: 7%;
+}
+
+.icon{
+  color: #8F8F8F;
+  padding-bottom: 1rem;
+
+}
+.icon:hover{
+  color:  #1E6F5C;
+}
+
+#testimonials{
+  background-color: #1E6F5C;
+  padding: 7% 15%;
+  text-align: center;
+
+}
+.test-image{
+  width: 15%%;
+  border-radius: 100%;
+  margin: 3%;
+}
+
+#press{
+  background-color: #1E6F5C;
+  text-align: center;
+  padding-bottom: 3%;
+
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 15px;
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+
+#cta{
+  padding: 7% 15%;
+  background-color: #1E6F5C;
+  color: #fff;
+  text-align: center;
+
+}
+
+#footer{
+  padding: 7% 10%;
+  text-align:center;
+}
+.social{
+  margin:10px 15px 5px;
+}
